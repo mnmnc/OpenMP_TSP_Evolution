@@ -6,9 +6,9 @@ Symetric Travelling Salesman Problem solved by Evolutionary algorithm. Concurren
 
 ## OUTPUT
 
-| Graph nodes   | Population size  | Iteration Limit | Execution time (s) | Best path reached in iteration |
-| :------------ |:----------------:| ---------------:|-------------------:|-------------------------------:|
-| 158           | 26               | 100             | 14.6               | 96                             |
+| Graph nodes   | Population size  | Mutation prob. | Iteration Limit | Execution time (s) | Best path reached in iteration |
+| :------------ |:----------------:|----------------|----------------:|-------------------:|-------------------------------:|
+| 158           | 26               | 0.02           | 100             | 14.6               | 96                             |
 
 
 
