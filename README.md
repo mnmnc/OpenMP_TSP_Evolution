@@ -3,6 +3,9 @@ OpenMP_TSP_Evolution :neckbeard:
 
 Symetric Travelling Salesman Problem solved by Evolutionary algorithm. Concurrent implementation with OpenMP.
 
+## Compilation
+`g++ -std=c++11 -fopenmp -Ofast tspevo.cpp -o tspevo`
+
 ## Experiments
 
 Processor: Intel(R) Core(TM) i3-3220T CPU @ 2.80GHz
