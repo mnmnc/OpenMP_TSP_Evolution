@@ -1,4 +1,4 @@
-OpenMP_TSP_Evolution
+OpenMP_TSP_Evolution :neckbeard:
 ====================
 
 Symetric Travelling Salesman Problem solved by Evolutionary algorithm. Concurrent implementation with OpenMP.
@@ -6,10 +6,15 @@ Symetric Travelling Salesman Problem solved by Evolutionary algorithm. Concurren
 
 ## OUTPUT
 
-| Graph nodes   | Population size  | Mut. | Iteration Limit | Execution time (s) | Best path reached in iteration |
-| :------------ |:----------------:|------|----------------:|-------------------:|-------------------------------:|
-| 158           | 26               | 0.02 | 100             | 14.6               | 96                             |
+| Graph nodes   | Pop. size  | Mut. | Iterations | Exec time (s) | Best reached in |
+| :------------ |:----------:|------|-----------:|--------------:|----------------:|
+| 158           | 26         | 0.02 | 100        | 14.6          | 96              |
 
+- Pop size - Population size
+- Mut - Mutation probability
+- Iteration - limit of iterations
+- Exec time - Execution time in seconds
+- Best reached in - In which iteration best path was reached
 
 
 ```python
