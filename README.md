@@ -10,7 +10,8 @@ Processor: Intel(R) Core(TM) i3-3220T CPU @ 2.80GHz
 | Graph nodes   | Pop. size  | Mut. | Iterations | Exec time (s) | Best reached in |
 | :------------ |:----------:|------|-----------:|--------------:|----------------:|
 | 158           | 26         | 0.02 | 100        | 14.6          | 96              |
-
+| 158           | 26         | 0.02 | 1000       | 152.002       | 986             |
+ 
 - Pop size - Population size
 - Mut - Mutation probability
 - Iteration - limit of iterations
