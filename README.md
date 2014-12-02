@@ -5,16 +5,12 @@ Symetric Travelling Salesman Problem solved by Evolutionary algorithm. Concurren
 
 
 ## OUTPUT
- For graph with 158 nodes, 
- - population size of 26, 
- - iteration limit set to 100. 
- - execution time: 14.6 seconds.
-  
- Best path reduced 
-  from 4892 
-  to 3469.49 
-  in 96 iteration, 
-  which is 30 % reduction.
+
+| Graph nodes   | Population size  | Iteration Limit | Execution time (s) | Best path reached in iteration |
+| :------------ |:----------------:| ---------------:|-------------------:|-------------------------------:|
+| 158           | 26               | 100             | 14.6               | 96                             |
+
+
 
 ```python
 [INFO] Iteration 1. Best path length: 4892.96
