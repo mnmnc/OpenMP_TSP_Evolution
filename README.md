@@ -13,6 +13,7 @@ Processor: Intel(R) Core(TM) i3-3220T CPU @ 2.80GHz
 | 158           | 26         | 0.02 | 1000       | 152.002       | 986             |
 | 158           | 50         | 0.02 | 100        | 44.72         | 97              |
 | 158           | 15         | 0.02 | 1000       | 76.524        | 927             |
+| 158           | 10         | 0.02 | 1000       | 56.4529       | 986             |
  
 - Pop size - Population size
 - Mut - Mutation probability
