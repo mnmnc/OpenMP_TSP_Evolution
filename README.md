@@ -29,6 +29,9 @@ Processor: Intel(R) Core(TM) i3-3220T CPU @ 2.80GHz
 - Exec - Execution time in seconds
 - Best in - In which iteration best path was reached
 
+## INPUT
+from http://www.math.uwaterloo.ca/tsp/vlsi/xqf131.tsp
+
 
 ## OUTPUT
 
