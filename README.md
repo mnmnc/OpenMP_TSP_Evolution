@@ -3,8 +3,7 @@ OpenMP_TSP_Evolution :neckbeard:
 
 Symetric Travelling Salesman Problem solved by Evolutionary algorithm. Concurrent implementation with OpenMP.
 
-
-## OUTPUT
+## Experiments
 
 | Graph nodes   | Pop. size  | Mut. | Iterations | Exec time (s) | Best reached in |
 | :------------ |:----------:|------|-----------:|--------------:|----------------:|
@@ -16,6 +15,8 @@ Symetric Travelling Salesman Problem solved by Evolutionary algorithm. Concurren
 - Exec time - Execution time in seconds
 - Best reached in - In which iteration best path was reached
 
+
+## OUTPUT
 
 ```python
 [INFO] Iteration 1. Best path length: 4892.96
