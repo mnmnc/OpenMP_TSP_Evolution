@@ -5,6 +5,8 @@ Symetric Travelling Salesman Problem solved by Evolutionary algorithm. Concurren
 
 ## Experiments
 
+Processor: Intel(R) Core(TM) i3-3220T CPU @ 2.80GHz
+
 | Graph nodes   | Pop. size  | Mut. | Iterations | Exec time (s) | Best reached in |
 | :------------ |:----------:|------|-----------:|--------------:|----------------:|
 | 158           | 26         | 0.02 | 100        | 14.6          | 96              |
